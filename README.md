@@ -6,3 +6,11 @@ Objectives:
     1) Tracked outreach activities and follow-ups
     2) Analyzed team performance and campaign progress
     3) Informed and optimized marketing and sales strategies over time
+
+## Tools & Technologies
+- Python
+- Jupyter Notebook
+- (Any libraries you used)
+
+## Files
+- L&D mapping_code testing.ipynb: Main code and analysis
